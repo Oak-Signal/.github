@@ -16,7 +16,7 @@ A comprehensive training and operations management system designed for cadet org
 ### [OakSignal Landing](https://github.com/Oak-Signal/oaksignal-landing)
 Our digital front door—showcasing the OakSignal mission and suite of tools.
 - 🌐 **Live Site**: [https://oak-signal.github.io/oaksignal-landing/](https://oak-signal.github.io/oaksignal-landing/)
-### Quartermaster *(Coming Soon)*
+### Cadet Inventory Management System *(Coming Soon)*
 Inventory and logistics management for cadet units.
 ---
 ## 💻 Tech Philosophy
