@@ -2,7 +2,7 @@
 ### Building reliable systems for cadet organizations
 ---
 ## 🎯 Mission
-OakSignal develops modern, purpose-built digital systems for cadet and youth organizations. We create tools that support training, operations, and public engagement—built with the same discipline and attention to detail expected in cadet programs.
+OakSignal develops modern, purpose-built digital systems for youth organizations. We create tools that support training, operations, and public engagement—built with the same discipline and attention to detail expected in any programs.
 ---
 ## 🌲 Core Values
 - **Clarity**: Clear code, clear design, clear communication
@@ -17,7 +17,7 @@ A comprehensive training and operations management system designed for cadet org
 Our digital front door—showcasing the OakSignal mission and suite of tools.
 - 🌐 **Live Site**: [https://oak-signal.github.io/oaksignal-landing/](https://oak-signal.github.io/oaksignal-landing/)
 ### Cadet Inventory Management System *(Coming Soon)*
-Inventory and logistics management for cadet units.
+Inventory and logistics management system.
 ---
 ## 💻 Tech Philosophy
 We build with modern, type-safe technologies that prioritize:
