@@ -13,11 +13,15 @@ OakSignal develops modern, purpose-built digital systems for youth organizations
 ## 🛠️ Our Projects
 ### [SignalsMaster](https://github.com/Oak-Signal/SignalsMaster)
 A comprehensive training and operations management system designed for cadet organizations.
+
 ### [OakSignal Landing](https://github.com/Oak-Signal/oaksignal-landing)
 Our digital front door—showcasing the OakSignal mission and suite of tools.
 - 🌐 **Live Site**: [https://oak-signal.github.io/oaksignal-landing/](https://oak-signal.github.io/oaksignal-landing/)
+
 ### Cadet Inventory Management System *(Coming Soon)*
-Inventory and logistics management system.
+
+A modern software solution with real-time tracking of inventory, designed to help cadet units efficiently manage equipment, uniforms, and supplies across multiple storage locations while maintaining accurate records and streamlined accountability.
+
 ---
 ## 💻 Tech Philosophy
 We build with modern, type-safe technologies that prioritize:
